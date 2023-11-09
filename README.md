@@ -1,0 +1,1 @@
+# This machine learning project is about reviews and ratings of some products from a given website.
